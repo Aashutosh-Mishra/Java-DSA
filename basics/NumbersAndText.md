@@ -21,13 +21,24 @@ class main{
         System.out.println(33);
     }
 }
+```
 
+
+
+```Java
 //String//
 class main{
     public static void main(String[] args) {
         System.out.println("Java is easy");
     }
 }
+```
+
+
+
+
+
+```Java
 // String,Number,Float//
 class main {
     public static void main(String[] args) {
