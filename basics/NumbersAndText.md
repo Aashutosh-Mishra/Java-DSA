@@ -13,3 +13,27 @@ Floating-point numbers contain decimal parts. For example, 2.5, 6.76, 0.0, -9.45
 In Java, texts wrapped inside double quotation marks are called Strings.
 
 "This is a string"
+
+``` Java
+//integer//
+class main{
+    public static void main(String[] args) {
+        System.out.println(33);
+    }
+}
+
+//String//
+class main{
+    public static void main(String[] args) {
+        System.out.println("Java is easy");
+    }
+}
+// String,Number,Float//
+class main {
+    public static void main(String[] args) {
+        System.out.println("Hey");
+        System.out.println(33);
+        System.out.println(44.41f);
+    }
+}
+```
