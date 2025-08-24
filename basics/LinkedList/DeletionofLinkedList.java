@@ -163,6 +163,7 @@ public class DeletionofLinkedList {
         Solution sol = new Solution();
         
         // Function call to delete the head node
+        //Make sure to call the function you want  in this manner only ;
         head = sol.deleteHead(head);
 
         System.out.print("List after deleting head: ");
